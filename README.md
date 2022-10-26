@@ -23,6 +23,3 @@ harassment.There will be an alert notification sent to the family members
 and torch with shock effect will work against them until the members 
 arrive.
 
-• Music player for listening music using appropriate head phone which have 
-an in built memory or accepts external memory cards. It is charged using 
-the internal battery pack.
